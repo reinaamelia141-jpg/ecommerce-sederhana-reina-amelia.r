@@ -1,4 +1,4 @@
-/* RESET */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,8 +10,6 @@ body {
   background-color: #f8f5ff;
   color: #333;
 }
-
-/* HEADER */
 .header {
   background-color: #e6ddff;
   padding: 15px 30px;
@@ -29,7 +27,6 @@ body {
   color: #6a5acd;
 }
 
-/* SEARCH */
 .search-box input {
   padding: 8px 12px;
   border-radius: 20px;
@@ -37,7 +34,6 @@ body {
   background: #f3eeff;
 }
 
-/* NAV */
 .nav-links {
   display: flex;
   gap: 20px;
@@ -50,7 +46,6 @@ body {
   font-weight: 500;
 }
 
-/* HERO */
 .hero {
   height: 80vh;
   background: linear-gradient(135deg, #e6ddff, #f8f5ff);
@@ -76,8 +71,6 @@ body {
   color: white;
   text-decoration: none;
 }
-
-/* CATEGORY (pakai class dari HTML kamu: "categoris") */
 .categoris {
   padding: 40px;
   text-align: center;
@@ -96,7 +89,6 @@ body {
   width: 120px;
 }
 
-/* PRODUCTS */
 .container {
   padding: 40px;
   text-align: center;
@@ -131,7 +123,6 @@ body {
   cursor: pointer;
 }
 
-/* FOOTER */
 footer {
   background: #e6ddff;
   padding: 20px;
